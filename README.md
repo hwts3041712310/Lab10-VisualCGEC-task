@@ -47,6 +47,9 @@ python main.py
 默认路径：读取./input/test_data.json，写入./output/predict.json
 
 ---
+
+### !!注意！！baiduOCR的key可能会变，上传过程中可能会失效，提交时尚能运行
+
 #### 若遇到任何问题请联系 3041712310@qq.com
 
 __φ(．．;) zZ
