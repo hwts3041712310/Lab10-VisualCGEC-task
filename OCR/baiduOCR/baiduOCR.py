@@ -28,7 +28,7 @@ def integrate(data):
 
 def baiduOCR(img_path):
     request_url = "https://aip.baidubce.com/rest/2.0/ocr/v1/accurate"
-    access_token = "24.d5786240659a4b1e8882e5b2dfa90cad.2592000.1751878470.282335-119161995"
+    access_token = "24.98bac9a7a2a6b852ff6313ab047f1bb1.2592000.1752070847.282335-119180669"
 
     # 二进制方式打开图片文件
     f = open(img_path, 'rb')
