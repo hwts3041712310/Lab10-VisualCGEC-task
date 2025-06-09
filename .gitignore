@@ -1,0 +1,25 @@
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.db
+*.sqlite3
+.DS_Store
+
+venv/
+env/
+.pytest_cache/
+
+logs/
+*.log
+.ipynb_checkpoints/
+
+# 本地 OCR 图像数据
+/input/test_img/
+/input/train_img/
+
+# 排除 .gitkeep 文件
+!/input/test_img/.gitkeep
+!/input/train_img/.gitkeep
